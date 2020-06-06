@@ -6,6 +6,7 @@ This Repo containts code for Formal Verification of Neural network controlled ro
 -A sample model is found in `model.h5` which is a keras model.
 
 -The workspace regions are defined in `regions` folder
+
 -The sepecification is that the Robot doesn't hit an obstacle. and If the specificaiton is violated, what are the safe regions?
 
 -Formal specification can be found in the [paper](https://dl.acm.org/doi/pdf/10.1145/3302504.3311802)
