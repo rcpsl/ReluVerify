@@ -10,3 +10,5 @@ This Repo containts code for Formal Verification of Neural network controlled ro
 -The sepecification is that the Robot doesn't hit an obstacle. and If the specificaiton is violated, what are the safe regions?
 
 -Formal specification can be found in the [paper](https://dl.acm.org/doi/pdf/10.1145/3302504.3311802)
+
+- A sample code for computing lidar image can be found in `ReluVerify.py`
